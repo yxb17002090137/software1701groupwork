@@ -1,3 +1,3 @@
 # software1701groupwork
 class02
-满汉全席，油盐酱醋。
+吴炜达：满汉全席，油盐酱醋。
